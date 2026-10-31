@@ -26,3 +26,6 @@ htmlcov/
 # Local environment
 .env
 .env.*
+
+# Generated verifier output
+results/*.txt
