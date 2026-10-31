@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+title: "Composite-gravity black hole PRL verification package"
+version: "1.0.0"
+date-released: "2026-10-30"
+license: MIT
+url: "https://github.com/quantum-like/composite-gravity-bh-prl"
+repository-code: "https://github.com/quantum-like/composite-gravity-bh-prl"
+abstract: >-
+  Symbolic checks and figure assets for the Physical Review Letters
+  submission on the static composite-gravity black hole (draft title in
+  the scripts: "Gauge-regular but metric-singular"). This repository is
+  the data and code availability package for that submission. It ships
+  the verification programs as provided and the merged invariant figure.
+  It does not re-derive the theory. Conventions stated in the scripts
+  follow Öttinger, J. Phys. Commun. 10, 105003 (2026): tetrad (45),
+  metric (46), solution (51), composition rule (4), field strength (18),
+  and field equations (19). Units in both scripts are r0 = 1
+  (geometrized, r0 = Gm/c^2). The scripts check (49) versus (19), the
+  Lie-algebra invariant F·F, and curvature-related metric invariants
+  (PPN β = γ = 1, the photon sphere, and Killing surface gravity).
+authors:
+  - family-names: Vahid
+    given-names: Amir
+    orcid: "https://orcid.org/0009-0005-6149-6331"
+    affiliation: "Ocean Reviver Inc."
